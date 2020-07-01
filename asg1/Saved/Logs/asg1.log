@@ -1,8 +1,8 @@
-﻿Log file open, 06/30/20 18:12:09
+﻿Log file open, 06/30/20 18:20:36
 LogInit: Display: Running engine for game: asg1
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 1.133930
+LogStats: Stats thread started at 1.318704
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -118,4 +118,4 @@ Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binarie
 LogInit: Warning: Incompatible or missing module: asg1
 LogWindows: FPlatformMisc::RequestExit(1)
 LogCore: Engine exit requested (reason: Win RequestExit)
-Log file closed, 06/30/20 18:12:49
+Log file closed, 06/30/20 18:20:48
